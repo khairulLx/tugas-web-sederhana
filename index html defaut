@@ -12,7 +12,7 @@
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
-                <li><a href="#profile">Profil</a></li>
+                <li><a href="#profile">Profl</a></li>
                 <li><a href="#video">Video</a></li>
                 <li><a href="#photo">Foto</a></li>
                 <li><a href="#audio">Audio</a></li>
@@ -47,7 +47,6 @@
 
     <section id="photo">
         <h2>Foto</h2>
-        <p>Ini adalah halaman foto.</p>
     <div class="divfoto">
         <img src="foto1.jpeg" alt="Gambar Ruby" class="media">
         <img src="foto2.jpeg" alt="Gambar Ruby" class="media">
